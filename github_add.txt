@@ -1,4 +1,4 @@
-Hello, github. (Master)
-Hello, github. (Branch 1)
-Hello, github. (Branch 2)
-Hello, github. (Branch 3)
+Master
+Branch1
+Branch2
+Branch3
