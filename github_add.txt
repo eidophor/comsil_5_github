@@ -1,3 +1,2 @@
 Hello, github. (Master)
 Hello, github. (Branch1)
-Hello, github. (Branch2)
